@@ -1,6 +1,6 @@
 body
 {
-    background: darkblue;
+    background: lightblue;
     color:darkslategrey;
     text-align: center;
 
@@ -10,6 +10,7 @@ body
     margin: 0;
     padding: 0;
 }
+
 
 #cabecera
 {
@@ -49,7 +50,7 @@ body
 }
 #post
 {
-    background: darkblue;
+    background: white;
     padding: 1em;
 }
 
